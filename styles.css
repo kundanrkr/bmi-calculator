@@ -5,7 +5,7 @@ body {
   padding: 0;
   background-color: #5159a9;
   color: #0056b3;
-  height: 100vh;
+  height: 110vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -132,6 +132,9 @@ button:hover {
 
   button {
     width: 100%;
+  }
+  .container #description {
+    display: none;
   }
 }
 
